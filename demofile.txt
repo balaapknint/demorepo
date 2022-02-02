@@ -5,7 +5,7 @@ github web demo
 
 github demo from local system
 
-githum demo from my demo branch
+github demo from my demo branch
 
 new branch
 
